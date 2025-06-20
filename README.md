@@ -13,7 +13,6 @@ A clean and responsive user **Login and Registration Form** built using HTML, CS
 - 📱 Responsive design for all screen sizes
 - 💡 Clean UI and easy to customize
 
-
 ---
 
 ## 🛠 Use Tech 
@@ -21,11 +20,6 @@ A clean and responsive user **Login and Registration Form** built using HTML, CS
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Backend**: PHP, MySQL
 - **Tools Used**: VS Code, XAMPP, phpMyAdmin
-
----
-
-## 📂 Project Structure
-RegisterLoginForm/│├── css/│ └── style.css # Styling for login and registration forms├── js/│ └── script.js # Front-end validation (if any)├── php/│ ├── login.php # PHP script for login│├── register.php # PHP script for user registration│ └── config.php # Database connection settings├── index.html # Login page├── register.html # Registration page├── database.sql # SQL file to create users table
 
 ---
 
